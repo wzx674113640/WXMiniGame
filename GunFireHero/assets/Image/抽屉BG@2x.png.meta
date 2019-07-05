@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dcc16e6e-0778-4061-83f3-73c98ab11658",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "抽屉BG@2x": {
+      "ver": "1.0.3",
+      "uuid": "69b592b6-105a-4b26-8156-b050900b7f19",
+      "rawTextureUuid": "dcc16e6e-0778-4061-83f3-73c98ab11658",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 535,
+      "height": 833,
+      "rawWidth": 535,
+      "rawHeight": 833,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
